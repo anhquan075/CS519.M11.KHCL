@@ -12,4 +12,4 @@ Một số ứng dụng mindmap để note lại môn CS519:
 
 + XMind, Wisemapping, Mind42, LucidChart, MindMeister, Mapul, Coggle hay Popplet.
 
-ref : https://quantrimang.com/7-cach-su-dung-ban-do-tu-duy-mind-map-de-ghi-chu-124253
+
